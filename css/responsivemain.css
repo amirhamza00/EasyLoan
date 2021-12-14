@@ -1,0 +1,676 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+@media (min-width: 1200px) and (max-width: 1399px) {
+  
+    /* CSS */
+   
+
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 992px) and (max-width: 1199px) {
+    
+    /* CSS */
+    .banner{
+        height: 140vh;
+    }
+    .space{
+        margin-left: 50px;
+    }
+    .f-header h2 {
+        font-size: 27px;
+        padding-top: 18px;
+    }
+    .drop {
+        padding: 8px;
+    }
+    .b-left h1{
+        font-size: 54px;
+    }
+    .l-c h5 a{
+        font-size: 20px;
+    }
+    .l-c p {
+        font-size: 17px;
+        margin-top: 15px;
+    }
+    .s-left {
+        margin-top: 30px;
+    }
+    .s-p {
+        padding: 44px 36px;
+        bottom: 0px;
+        right: -1px;
+    }
+    .s-right h2 {
+        font-size: 34px;
+    }
+    .s-right p{
+        padding-bottom: 30px;
+    }
+    .icon-t h6 {
+        font-size: 16px;
+    }
+    .s-btn{
+        margin-top: 25px;
+    }
+    .satisfaction {
+        padding: 65px 0;
+    }
+    .loan-title h2{
+        font-size: 37px;
+    }
+    .loan-title p{
+        font-size: 15px;
+    }
+    .loan-opption {
+        padding: 60px 0;
+    }
+    .b-btn {
+        padding: 17px 25px;
+    }
+
+    .service{
+        padding: 60px 0;
+    }
+    .testimonial{
+        padding: 50px 0;
+    }
+    .news{
+        padding: 60px 0;
+    }
+
+    .f-first p {
+        font-size: 14px;
+    }
+    .footer-one{
+        padding: 60px 0;
+    }
+    
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 991px) {
+    
+    /* CSS */
+    .banner{
+        height: 130vh;
+    }
+    .b-left h1 {
+        font-size: 40px;
+    }
+    .f-header h2 {
+        font-size: 25px;
+        padding-top: 20px;
+    }
+    .space{
+        margin-left: 0;
+    }
+    .f-header {
+        text-align: center;
+        padding: 15px 39px;
+    }
+    .drop {
+        padding: 8px;
+    }
+    .b-btn {
+        padding: 16px 22px;
+    }
+    .b-left p {
+        margin-bottom: 27px;
+        font-size: 18px;
+    }
+    .f-bottom P{
+        margin: 0;
+    }
+    .l-c{
+        margin-top: 20px;
+    }
+    .gap {
+        margin-top: 20px;
+    }
+    .satisfaction {
+        padding: 65px 0;
+    }
+    .s-right{
+        margin-top: 55px;
+    }
+    .service{
+        padding: 50px 0;
+    }
+    .easy {
+        padding: 10px 0 60px;
+    }
+    .e-img{
+        margin-top: 30px;
+    }
+    .testimonial{
+        padding: 40px 0;
+    }
+    .slider-t p {
+        font-size: 21px;
+        margin-bottom: 18px;
+        padding: 10px;
+    }
+    .news{
+        padding: 50px 0;
+    }
+    .n-content{
+        margin-top: 20px;
+    }
+    .footer-one{
+        padding: 40px 0;
+    }
+    .f-first p {
+        font-size: 16px;
+        margin-top: 15px;
+
+    }
+    .f-third h5 {
+        font-size: 20px;
+        margin-top: 10px;
+    }
+    .ser-title p{
+        width: 100%;
+    }
+   
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width:991px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 576px) and (max-width: 767px) {
+    
+    /* CSS */
+    .banner{
+        height: 170vh;
+    }
+    .b-left{
+        margin: 25px 0;
+    }
+    .b-left h1 {
+        font-size: 40px;
+    }
+    .b-left p {
+        font-size: 23px;
+    }
+    .b-btn {
+        padding: 20px 30px;
+         margin-top: 0; 
+        font-size: 15px;
+    }
+    .space {
+
+        margin-top: 100px;
+        margin-left: 52px;
+    }
+    .f-header h2{
+        padding-top: 10px;
+    }
+    .line2 {
+        margin-top: 20px !important;
+    }
+    .drop {
+        padding: 8px;
+    }
+    .f-btn {
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+    .f-bottom P{
+        margin: 0;
+    }
+    .loan-title h2 {
+        font-size: 33px;
+    }
+    .loan-opption{
+        padding: 50px 0;
+    }
+    .satisfaction {
+        padding: 50px 0;
+    }
+    .s-right{
+        margin-top: 55px;
+    }
+    .service{
+        padding: 50px 0;
+    }
+    .easy {
+        padding: 10px 0 60px;
+    }
+    .e-img{
+        margin-top: 30px;
+    }
+    .testimonial{
+        padding: 40px 0;
+    }
+    .ser-title p{
+        width: 100%;
+    }
+    .ser-item{
+        margin-top: 15px;
+    }
+    .gap {
+        margin-top: 20px;
+    }
+    .s-right h2 {
+        color: #0f4332;
+        font-size: 31px;
+    }
+    .slider-t p {
+        font-size: 16px;
+        margin-bottom: 20px;
+        margin-top: 0;
+        padding: 10px;
+    }
+    .news{
+        padding: 40px 0;
+    }
+    .n-content{
+        margin-top: 20px;
+    }
+    .footer-one{
+        padding: 30px 0;
+    }
+    .f-second{
+        margin: 20px 0;
+    }
+     .f-second{
+        margin: 20px 0;
+    }
+    .f-third h5{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+  }
+  @media (min-width: 480px) and (max-width: 575px) {
+    
+    /* CSS */
+    
+    .banner{
+        height: 155vh;
+    }
+    .banner .offset-1{
+        margin-left: 0%;
+    }
+    .b-left .offset-1{
+        margin-left: 0;
+    }
+    .b-left h1 {
+        font-size: 32px;
+    }
+    .b-left p {
+        font-size: 16px;
+    }
+    .b-left {
+        position: relative;
+        margin: 20px 0px;
+    }
+    .b-btn {
+        padding: 16px 23px;
+       margin-top: 0px; 
+        font-size: 15px;
+    }
+    .space {
+        background: #fff;
+        display: inline-block;
+        margin-left: 0;
+    }
+    .f-header {
+        text-align: center;
+        display: inline-block;
+        padding: 15px 30px;
+    }
+    .line2 {
+
+      margin-top: 0 !important;
+    }
+    .drop {
+        padding: 8px;
+    }
+    .f-btn{
+        margin: 10px 0;
+    }
+    .loan-title h2{
+        font-size: 28px;
+    }
+    .loan-title p {
+        font-size: 14px;
+    }
+    .l-c h5 a{
+        font-size: 21px;
+    }
+    .gap {
+        margin-top: 26px;
+    }
+    .l-c p {
+        font-size: 16px;
+    }
+    .loan-opption {
+        width: 100%;
+        padding: 55px 0;
+        position: relative;
+    }
+    .satisfaction{
+        padding: 40px 0;
+    }
+    .s-right{
+        margin-top: 40px;
+    }
+    .s-right h2 {
+        font-size: 27px;
+    }
+    .s-right p {
+        font-size: 15px;
+        padding-bottom: 30px;
+    }
+    .gapp {
+        margin-top: 25px;
+    }
+    .owl-dots{
+        display: none;
+    }
+    .service {
+        padding: 50px 0;
+    }
+    .ser-title h2 {
+        font-size: 33px;
+    }   
+    .ser-title p {
+        width: auto;
+        font-size: 15px;
+    } 
+    .ser-item p {
+        font-size: 15px;
+    }
+    .easy{
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .e-img{
+        margin-top: 21px;
+    }
+    .testimonial{
+        padding: 40px 0;
+    }
+    .slider-t {
+        margin: 20px;
+    }
+    .slider-t p {
+        font-size: 15px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .tes-t h3{
+        font-size: 21px;
+    }
+    .tes-t p {
+        margin-left: 0;
+        font-size: 14px;
+    }
+    .w-75 {
+        width: 15%!important;
+    }
+    .tes-t h3 {
+        font-size: 23px;
+        margin-left: 0;
+    }
+    .testimonial .offset-1{
+        margin-left: 0%;
+    }
+
+    .footer-one {
+        padding: 30px 0;
+    }
+    .s-p {
+        padding: 48px 42px;
+        bottom: 0px;
+        right: 0px;
+    }
+    .news {
+        width: 100%;
+        padding: 45px 0;
+    }
+    
+    .sss{
+        width: 7%;
+    }
+    .ssss{
+        width: 60%;
+        margin-top: 1px;
+    }
+    .ttt{
+        margin-left: 33px;
+    }
+    .tttt{
+        margin-left: 33px;
+    }
+    .news-t h2 {
+        color: #0f4332;
+        font-size: 35px;
+    }
+ 
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+
+  @media (min-width: 320px) and (max-width: 479px) {
+    
+    /* CSS */
+    .cc{
+        margin: 0;
+        padding: 0;
+    }
+    .banner{
+        height: 130vh;
+    }
+    .banner .offset-1{
+        margin-left: 0%;
+    }
+    .b-left .offset-1{
+        margin-left: 0;
+    }
+    .b-left h1 {
+        font-size: 32px;
+    }
+    .b-left p {
+        font-size: 16px;
+    }
+    .b-left {
+        position: relative;
+        margin: 20px 0px;
+    }
+    .b-btn {
+        padding: 16px 23px;
+       margin-top: 0px; 
+        font-size: 15px;
+    }
+    .space {
+        background: #fff;
+        display: inline-block;
+        margin-left: 0;
+    }
+    .f-header {
+        text-align: center;
+        display: inline-block;
+        padding: 15px 30px;
+    }
+    .line2 {
+
+      margin-top: 0 !important;
+    }
+    .drop {
+        padding: 8px;
+    }
+    .f-bottom P {
+        margin: 0;
+    }
+    .f-btn{
+        margin: 10px 0;
+    }
+    .loan-title h2{
+        font-size: 28px;
+    }
+    .loan-title p {
+        font-size: 13px;
+    }
+    .l-c h5 a{
+        font-size: 21px;
+    }
+    .gap {
+        margin-top: 26px;
+    }
+    .l-c p {
+        font-size: 16px;
+    }
+    .loan-opption {
+        width: 100%;
+        padding: 55px 0;
+        position: relative;
+    }
+    .satisfaction{
+        padding: 40px 0;
+    }
+    .icon-t h6 {
+        font-size: 15px;
+    }
+    .s-btn{
+        margin-top: 10px;
+        padding: 17px 32px;
+        font-size: 14px;
+    }
+    .s-right{
+        margin-top: 40px;
+    }
+    .s-right h2 {
+        font-size: 27px;
+    }
+    .s-right p {
+        font-size: 15px;
+        padding-bottom: 30px;
+    }
+    .gapp {
+        margin-top: 25px;
+    }
+    .owl-dots{
+        display: none;
+    }
+    .service {
+        padding: 50px 0;
+    }
+    .ser-title h2 {
+        font-size: 33px;
+    }   
+    .ser-title p {
+        width: auto;
+        font-size: 15px;
+    } 
+    .ser-item p {
+        font-size: 15px;
+    }
+    .easy{
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .e-img{
+        margin-top: 21px;
+    }
+    .testimonial{
+        padding: 40px 0;
+    }
+    .slider-t {
+        margin: 20px;
+    }
+    .slider-t p {
+        font-size: 15px;
+        margin-bottom: 20px;
+        margin-top: 20px;
+        width: 100%;
+    }
+    .tes-t h3{
+        font-size: 21px;
+    }
+    .tes-t p {
+        margin-left: 0;
+        font-size: 14px;
+    }
+    .w-75 {
+        width: 15%!important;
+    }
+    .tes-t h3 {
+        font-size: 23px;
+        margin-left: 0;
+    }
+    .testimonial .offset-1{
+        margin-left: 0%;
+    }
+
+    .footer-one {
+        padding: 30px 0;
+    }
+    .s-p {
+        padding: 33px 20px;
+        bottom: 0px;
+        right: 0px;
+    }
+    .news {
+        width: 100%;
+        padding: 45px 0;
+    }
+    
+    .sss{
+        width: 7%;
+    }
+    .ssss{
+        width: 60%;
+        margin-top: 1px;
+    }
+    .ttt{
+        margin-left: 33px;
+    }
+    .tttt{
+        margin-left: 33px;
+    }
+    .news-t h2 {
+        color: #0f4332;
+        font-size: 35px;
+    }
+    .n-content h5 a {
+        font-size: 20px;
+    }
+    .n-content p {
+        margin-top: 10px;
+        font-size: 16px;
+    }
+    
+  }
